@@ -5,9 +5,7 @@
 >This page is available in <a href="./en/en.md"
 >english</a></p>
 <p style="display: flex; color: rgb(249 115 22 / 1);"
-> <img src="./assets/skull.svg" alt="skull icon" style="width: 4px; height: 4px;"
-> <span style="font-weight: bold;"
-> Ghostify</span> </p>
+><img src="./assets/skull.svg" alt="skull icon" style="width: 4px; height: 4px;" /> <span style="font-weight: bold;"> Ghostify</span> </p>
 </div>
 
 Ghostify est une plateforme multi-service de création d'articles, de CV et de conversion de documents. Ce dépot git représente l'ensemble de la documentation nécessaire pour prendre en main les services et les différentes fonctionnalités de la plateforme. Si vous avez un principal souci avec nos services vous pouvez le mentionner dans les `issues` ou via le [contact](https://ghostify.site/contact/) depuis la plateforme.  
