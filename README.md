@@ -5,7 +5,7 @@
 >This page is available in <a href="./en/en.md"
 >english</a></p>
 <p style="display: flex; color: rgb(249 115 22 / 1);"
-> <img src="./assets/skull.svg" alt="skull icon" style="width: 4px; height: 4px;" /
+> <img src="./assets/skull.svg" alt="skull icon" style="width: 4px; height: 4px;"
 > <span style="font-weight: bold;"
 > Ghostify</span> </p>
 </div>
