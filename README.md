@@ -1,4 +1,3 @@
-<link rel="icon" type="image/svg" href="./assets/ghostify.svg">
 
 # Ghostify
 
