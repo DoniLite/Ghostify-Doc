@@ -1,3 +1,5 @@
+<link rel="icon" type="image/svg" href="./assets/ghostify.svg">
+
 # Ghostify
 
 This page is available in [english](./en/en.md)  
