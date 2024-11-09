@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman  # Par exemple
 url: "https://doc.ghostify.site"
 baseurl: ""
+social_image: /assets/preview.png
+description: "Ghostify est une plateforme multi-service de création d'articles, de CV et de conversion de documents | Ghostify is a multi-service platform for creating articles, resumes and document conversion"
